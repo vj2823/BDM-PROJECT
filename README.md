@@ -1,8 +1,4 @@
 # BDM-PROJECT
-
-# Create the content for the README.md file based on the earlier message
-
-readme_content = """
 # Analyzing Customer Behavior to Optimize Stock Levels
 
 **Capstone Project - Business Data Management**  
